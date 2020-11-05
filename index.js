@@ -1,6 +1,4 @@
 const Discord = require('discord.js');
-const humanizeDuration = require('humanize-duration');
-const talkedRecently = new Map();
 
 const client = new Discord.Client();
 
